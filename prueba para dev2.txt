@@ -16,4 +16,6 @@ linea 2
 
 def function 4
 linea
+otra linea
+mas lineas
 return function 4
