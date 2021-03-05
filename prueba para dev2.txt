@@ -1,3 +1,19 @@
 linea 1
+
+def function 1
+linea
+return function 1
+
+def function 2
+linea
+return function 2
+
+def function 3
+linea
+return function 3
+
 linea 2
 
+def function 4
+linea
+return function 4
